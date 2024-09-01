@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **lehoangthach2k2@gmail.com**
 
-- 📄 Know about my experiences [I used to work at AFR Solution <img align="center" src="https://pbs.twimg.com/profile_images/1540110841772929025/MqFqSjUU_400x400.jpg" alt="thach-devs" height="30" width="40" />, Ominext src="https://media.licdn.com/dms/image/v2/C4D0BAQH5BRZboaGKdw/company-logo_200_200/company-logo_200_200/0/1675930578164?e=2147483647&v=beta&t=yWA-PgB7hrZWHEePclN6mZEDcujAfAO5_EHHXL4ZkwU" alt="thach-devs" height="30" width="40" />, Cam Ranh International Airport src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYhTOo8RKwTyZAdalKXh6r00XtSVmeRpvXQ&s" alt="thach-devs" height="30" width="40" />](I used to work at AFR Solution, Ominext, Cam Ranh International Airplane)
+- 📄 Know about my experiences [I used to work at AFR Solution <img align="center" src="https://pbs.twimg.com/profile_images/1540110841772929025/MqFqSjUU_400x400.jpg" alt="thach-devs" height="30" width="40" />, Ominext
+  <img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQH5BRZboaGKdw/company-logo_200_200/company-logo_200_200/0/1675930578164?e=2147483647&v=beta&t=yWA-PgB7hrZWHEePclN6mZEDcujAfAO5_EHHXL4ZkwU" alt="thach-devs" height="30" width="40" />, Cam Ranh International Airport
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYhTOo8RKwTyZAdalKXh6r00XtSVmeRpvXQ&s" alt="thach-devs" height="30" width="40" />](I used to work at AFR Solution, Ominext, Cam Ranh International Airplane)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
