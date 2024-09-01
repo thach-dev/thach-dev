@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJS**
 
-- 👯 I’m looking to collaborate on **I want to work on Reactjs, React Native, Node JS**
+- 👯 I’m looking to collaborate on **I want to work on Reactjs, React Native, Node JS, Apex**
 
-- 🤝 I’m looking for help with **I'm looking for help on Reactjs, React Native, NodeJS**
+- 🤝 I’m looking for help with **I'm looking for help on Reactjs, React Native, NodeJS, Apex**
 
-- 💬 Ask me about **ReactJS, React Native, NodeJS**
+- 💬 Ask me about **ReactJS, React Native, NodeJS, Apex**
 
 - 📫 How to reach me **lehoangthach2k2@gmail.com**
 
